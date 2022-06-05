@@ -14,7 +14,6 @@
 //         "mobile": "01521326247",
 //         "email": "aziz@gmail.com",
 //         "location": "Dhaka, khilgaon"
-
 //     },
 //    {
 //         "title": "Need Female Tutor For class: 4(BM)",
@@ -47,7 +46,6 @@
 //         "mobile": "01521326247",
 //         "email": "ashik@gmail.com",
 //         "location": "Dhaka, Uttara"
-
 //     },
 //    {
 //         "title": "Need Male Tutor For class: 9(EV)",
@@ -80,7 +78,6 @@
 //         "mobile": "01521326247",
 //         "email": "abir@gmail.com",
 //         "location": "Dhaka, khilgaon"
-
 //     },
 //    {
 //         "title": "Need Male Tutor For O-Level Student",
@@ -98,5 +95,186 @@
 //         "email": "zia@gmail.com",
 //         "location": "Dhaka, Mirpur"
 //     }
-  
+// ]
+// [
+//     {
+//         "subject": "All subjects",
+//         "gender": "Male",
+//         "salary": "5500",
+//         "degree": "4th year, CSE, SUST",
+//         "exp": "3+ years",
+//         "name": "Ziaur Rahman",
+//         "mobile": "01628476255",
+//         "email": "zia@gmail.com",
+//         "location": "Mirpur 12, 13, 14",
+//         "img": "https://tinyurl.com/2p8azr3z"
+//     },
+//     {
+//         "subject": "All subjects",
+//         "gender": "Male",
+//         "salary": "5500",
+//         "degree": "4th year, CSE, SUST",
+//         "exp": "3+ years",
+//         "name": "Ziaur Rahman",
+//         "mobile": "01628476255",
+//         "email": "zia@gmail.com",
+//         "location": "Mirpur 12, 13, 14",
+//         "img": "https://tinyurl.com/yc4v52h9"
+//     },
+//     {
+//         "subject": "All subjects",
+//         "gender": "Male",
+//         "salary": "5500",
+//         "degree": "4th year, CSE, SUST",
+//         "exp": "3+ years",
+//         "name": "Ziaur Rahman",
+//         "mobile": "01628476255",
+//         "email": "zia@gmail.com",
+//         "location": "Mirpur 12, 13, 14",
+//         "img": "https://tinyurl.com/2p8azr3z"
+//     },
+//     {
+//         "subject": "All subjects",
+//         "gender": "Male",
+//         "salary": "5500",
+//         "degree": "4th year, CSE, SUST",
+//         "exp": "3+ years",
+//         "name": "Ziaur Rahman",
+//         "mobile": "01628476255",
+//         "email": "zia@gmail.com",
+//         "location": "Mirpur 12, 13, 14",
+//         "img": "https://tinyurl.com/mrdcn5sb"
+//     },
+//     {
+//         "subject": "All subjects",
+//         "gender": "Male",
+//         "salary": "5500",
+//         "degree": "4th year, CSE, SUST",
+//         "exp": "3+ years",
+//         "name": "Ziaur Rahman",
+//         "mobile": "01628476255",
+//         "email": "zia@gmail.com",
+//         "location": "Mirpur 12, 13, 14",
+//         "img": "https://tinyurl.com/yc8uz9jh"
+//     },
+//     {
+//         "subject": "All subjects",
+//         "gender": "Male",
+//         "salary": "5500",
+//         "degree": "4th year, CSE, SUST",
+//         "exp": "3+ years",
+//         "name": "Ziaur Rahman",
+//         "mobile": "01628476255",
+//         "email": "zia@gmail.com",
+//         "location": "Mirpur 12, 13, 14",
+//         "img": "https://tinyurl.com/c6jfturc"
+//     },
+//     {
+//         "subject": "All subjects",
+//         "gender": "Male",
+//         "salary": "5500",
+//         "degree": "4th year, CSE, SUST",
+//         "exp": "3+ years",
+//         "name": "Ziaur Rahman",
+//         "mobile": "01628476255",
+//         "email": "zia@gmail.com",
+//         "location": "Mirpur 12, 13, 14",
+//         "img": "https://tinyurl.com/yck7pfsf"
+//     },
+//     {
+//         "subject": "All subjects",
+//         "gender": "Male",
+//         "salary": "5500",
+//         "degree": "4th year, CSE, SUST",
+//         "exp": "3+ years",
+//         "name": "Ziaur Rahman",
+//         "mobile": "01628476255",
+//         "email": "zia@gmail.com",
+//         "location": "Mirpur 12, 13, 14",
+//         "img": "https://tinyurl.com/yc5yt9yy"
+//     },
+//     {
+//         "subject": "All subjects",
+//         "gender": "Male",
+//         "salary": "5500",
+//         "degree": "4th year, CSE, SUST",
+//         "exp": "3+ years",
+//         "name": "Ziaur Rahman",
+//         "mobile": "01628476255",
+//         "email": "zia@gmail.com",
+//         "location": "Mirpur 12, 13, 14",
+//         "img": "https://tinyurl.com/37avm39a"
+//     },
+//     {
+//         "subject": "All subjects",
+//         "gender": "Male",
+//         "salary": "5500",
+//         "degree": "4th year, CSE, SUST",
+//         "exp": "3+ years",
+//         "name": "Ziaur Rahman",
+//         "mobile": "01628476255",
+//         "email": "zia@gmail.com",
+//         "location": "Mirpur 12, 13, 14",
+//         "img": "https://tinyurl.com/2p8azr3z"
+//     },
+//     {
+//         "subject": "All subjects",
+//         "gender": "Male",
+//         "salary": "5500",
+//         "degree": "4th year, CSE, SUST",
+//         "exp": "3+ years",
+//         "name": "Ziaur Rahman",
+//         "mobile": "01628476255",
+//         "email": "zia@gmail.com",
+//         "location": "Mirpur 12, 13, 14",
+//         "img": "https://tinyurl.com/2p8azr3z"
+//     },
+//     {
+//         "subject": "All subjects",
+//         "gender": "Male",
+//         "salary": "5500",
+//         "degree": "4th year, CSE, SUST",
+//         "exp": "3+ years",
+//         "name": "Ziaur Rahman",
+//         "mobile": "01628476255",
+//         "email": "zia@gmail.com",
+//         "location": "Mirpur 12, 13, 14",
+//         "img": "https://tinyurl.com/2p8azr3z"
+//     },
+//     {
+//         "subject": "All subjects",
+//         "gender": "Male",
+//         "salary": "5500",
+//         "degree": "4th year, CSE, SUST",
+//         "exp": "3+ years",
+//         "name": "Ziaur Rahman",
+//         "mobile": "01628476255",
+//         "email": "zia@gmail.com",
+//         "location": "Mirpur 12, 13, 14",
+//         "img": "https://tinyurl.com/2p8azr3z"
+//     },
+//     {
+//         "subject": "All subjects",
+//         "gender": "Male",
+//         "salary": "5500",
+//         "degree": "4th year, CSE, SUST",
+//         "exp": "3+ years",
+//         "name": "Ziaur Rahman",
+//         "mobile": "01628476255",
+//         "email": "zia@gmail.com",
+//         "location": "Mirpur 12, 13, 14",
+//         "img": "https://tinyurl.com/2p8azr3z"
+//     },
+//     {
+//         "subject": "All subjects",
+//         "gender": "Male",
+//         "salary": "5500",
+//         "degree": "4th year, CSE, SUST",
+//         "exp": "3+ years",
+//         "name": "Ziaur Rahman",
+//         "mobile": "01628476255",
+//         "email": "zia@gmail.com",
+//         "location": "Mirpur 12, 13, 14",
+//         "img": "https://tinyurl.com/2p8azr3z"
+//     }
 // ]

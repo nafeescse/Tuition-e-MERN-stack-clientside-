@@ -15,15 +15,15 @@ const Header = () => {
         <div className="navbar bg-error text-white">
             <div className="flex-1">
                 <div className="dropdown bg-error">
-                    <label tabindex="0" className="btn btn-ghost lg:hidden">
-                        <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
+                    <label tabIndex="0" className="btn btn-ghost lg:hidden">
+                        <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
                     </label>
-                    <ul tabindex="0" className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-error rounded-box w-52">
+                    <ul tabIndex="0" className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-error rounded-box w-52">
                         <li><Link to='/'>Home</Link></li>
-                        <li><Link to='/'>Tutors</Link></li>
-                        <li><Link to='/'>Tuitions</Link></li>
-                        <li><Link to='/'>Contacts</Link></li>
-                        <li><Link to='/'>About</Link></li>
+                        <li><Link to='/tutors'>Tutors</Link></li>
+                        <li><Link to='/tuitions'>Tuitions</Link></li>
+                        <li><Link to='/contacts'>Contacts</Link></li>
+                        <li><Link to='/about'>About</Link></li>
                     </ul>
                 </div>
                 <a className="btn btn-ghost normal-case text-xl ">টিউশন-ই</a>
@@ -31,10 +31,10 @@ const Header = () => {
             <div className="hidden lg:flex">
                 <ul className="menu menu-horizontal p-">
                     <li><Link to='/'>Home</Link></li>
-                    <li><Link to='/'>Tutors</Link></li>
-                    <li><Link to='/'>Tuitions</Link></li>
-                    <li><Link to='/'>Contacts</Link></li>
-                    <li><Link to='/'>About</Link></li>
+                    <li><Link to='/tutors'>Tutors</Link></li>
+                    <li><Link to='/tuitions'>Tuitions</Link></li>
+                    <li><Link to='/contacts'>Contacts</Link></li>
+                    <li><Link to='/about'>About</Link></li>
                 </ul>
 
             </div>
@@ -42,16 +42,16 @@ const Header = () => {
 
 
                 <div className="dropdown dropdown-end mr-2">
-                    <label tabindex="0" className="btn btn-ghost btn-circle avatar">
+                    <label tabIndex="0" className="btn btn-ghost btn-circle avatar">
                         <div className="w-10 rounded-full">
                             <img src={profile} />
                         </div>
                     </label>
-                    <ul tabindex="0" className="mt-3 p-2 shadow menu menu-compact dropdown-content bg-error rounded-box w-52">
-                       
+                    <ul tabIndex="0" className="mt-3 p-2 shadow menu menu-compact dropdown-content bg-error rounded-box w-52">
+
                         <li><Link className="justify-between" to='/'>About <span className="badge">New</span></Link></li>
                         {user ? <li><button onClick={logout}>Logout</button></li> : <ul><li><Link to='/login'>Login</Link></li>
-                        <li><Link to='/register'>Register</Link></li></ul>
+                            <li><Link to='/register'>Register</Link></li></ul>
                         }
                     </ul>
                 </div>
